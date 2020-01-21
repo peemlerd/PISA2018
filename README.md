@@ -11,8 +11,8 @@ To study what works in Thai schools using an empirical data.
 
 # Why PISA 2018 data? 
 
-1.) PISA is one of the few open-source empirical data about Thai students' education achievement.  \\ 
-2.) PISA collects a detailed information on each student, be it their parents' background, socioeconomic status, school condition, class size, and so on. The richness of PISA dataset allows researchers to analyze the relationship between education performance and factors that may influence it.  \\
+1.) PISA is one of the few open-source empirical data about Thai students' education achievement.  <br />
+2.) PISA collects a detailed information on each student, be it their parents' background, socioeconomic status, school condition, class size, and so on. The richness of PISA dataset allows researchers to analyze the relationship between education performance and factors that may influence it.  <br />
 3.) Unlike those in previous years, participants in PISA 2018 were asked to answer questionnaire on their attitudes towards education (e.g. growth mindset, expected highest level of education) and their emotion state. Because the impact of mindset on education has received a lot of attention from researchers on Thai education (e.g. [Tayjasanant et al.](https://www.researchgate.net/publication/311605841_Thai_EFL_teachers_and_learners'_beliefs_and_readiness_for_autonomous_learning)), PISA 2018 data on each student's attitude may contribute to the conversation. 
 
 # Work process
