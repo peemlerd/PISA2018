@@ -19,4 +19,4 @@ In this project, I will approach the question of what works in Thai schools and 
 
 
 # About the author
-This project is done by Peem Lerdputtipongporn, a junior majoring in Mathematics and Computer Science at Swarthmore College, PA. Peem is interested in using statistics and computation to make a positive impact to society. 
+This project is done by Peem Lerdputtipongporn, Swarthmore College Class of 2021. As a Mathematics and Computer Science major, Peem is interested in using statistics and computation to make a positive impact to society. His area of interest includes education, economic development, and finance. 
