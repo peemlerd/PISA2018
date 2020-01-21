@@ -1,16 +1,14 @@
-# Information about this project
+# Project description 
 
 This data analysis project is done on PISA 2018 data on Thai students' education achievement during my internship at Thailand Development Research Institute (TDRI) from late Dec 2019 to early Jan 2020.
 
-# Motivations 
+# Background
 
-Many Thai students are not doing well academically. According to the [World Bank](https://www.worldbank.org/en/country/thailand/publication/wanted---a-quality-education-for-all-in-thailand), a significant proportion of 15-year-old Thai students are functionally illiterate, especially those in the rural areas.
+Thai students are not doing well academically. According to the [World Bank](https://www.worldbank.org/en/country/thailand/publication/wanted---a-quality-education-for-all-in-thailand), a significant proportion of 15-year-old Thai students are functionally illiterate, especially those in the rural areas. Some researchers  have attributed Thailand's lagging performance in education to its overemphasis on [rote memorisation](https://oxfordbusinessgroup.com/overview/learning-curve-despite-premium-placed-learning-sector-has-struggled-show-positive-results-0), [shortage of education staff](http://uis.unesco.org/sites/default/files/documents/secondary-teachers-in-thailand-secondary-teacher-policy-research-in-asia-2011-en.pdf), and so on. Because there are many stakeholders in any education system (e.g. policymakers, teachers, students, parents, etc.), it is difficult to attribute what causes the successes or failures of the system. The problem with Thai education is exacerbated by [Thailand's lack of data availability](https://www.bangkokpost.com/opinion/opinion/1219025/open-data-policy-the-key-to-success): the absence of data makes it difficult for policymakers to empirically evaluate the effectiveness of their policies. 
 
-I worked on an education research team whose task is to design special education zone in Sri-saket province. Previously, TDRI had advocated for educational policies such as mandating standardized tests that emphasize literacy over rote-learning and allocating school funding based on improvement in students’ education outcome. The institution believed that enhancing school accountability is the key to improving Thai students’ educational outcomes. However, revamping the entire Thai education system is difficult given Thailand’s volatile politics and resistance from some teachers. Therefore, it pushes for an education sandbox where schools can experiment with education innovations to see what works in Thai schools. The question remains: which features of Thai students best predict their education achievement? Pinpointing relevant features helps TDRI determine which policies sandbox schools should experiment with. Once those experimental policies have been proven effective in improving education outcomes in the sandbox areas, other schools can adopt them at a national level. My task was to perform data analysis to identify those relevant features. 
-
-
-
-# Goals 
+# Goal 
+To empirically study 
+In this project, I will approach the question of what works in Thai schools and what not from an empirical perspective using PISA 2018 data on Thai students' education achievement. 
 
 # Work process
 
