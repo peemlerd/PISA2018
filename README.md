@@ -17,24 +17,30 @@ Third, unlike those in previous years, participants in PISA 2018 were asked to a
 
 # Work process
 
-1.) I loaded the data from PISA website on the education achievement of Thai students in 2018. <br /> 
+1.) **Loaded the data**: I loaded the data from PISA website on the education achievement of Thai students in 2018. <br /> 
 
-2.) I skimmed through PISA methodology (e.g. how the test was administered, how PISA imputes missing data) and the codebook on what each column stands for to understand the format of the data and how to analyze them. 
+2.) **Background survey**: I skimmed through PISA methodology (e.g. how the test was administered, how PISA imputes missing data) and the codebook on what each column stands for to understand the format of the data and how to analyze them. 
 
-3.) I researched previous literatures on PISA results. These literatures included [the PISA 2018 executive summary](https://www.oecd.org/pisa/PISA%202018%20Insights%20and%20Interpretations%20FINAL%20PDF.pdf), [PISA's comparison of Thailand and other countries](http://www.compareyourcountry.org/pisa/country/THA), and papers about Thai education that analyze PISA data. The excerpt on each paper is as provided below: 
+3.) **Literature search**: I researched previous literatures on PISA results. These literatures included [the PISA 2018 executive summary](https://www.oecd.org/pisa/PISA%202018%20Insights%20and%20Interpretations%20FINAL%20PDF.pdf), [PISA's comparison of Thailand and other countries](http://www.compareyourcountry.org/pisa/country/THA), and papers about Thai education that analyze PISA data. The excerpt of each paper is as provided below: 
 
-- 
-- 
-- 
--
+- [TDRI Quarterly Review — Quality Education for All](https://tdri.or.th/wp-content/uploads/2012/09/t5j2012.pdf): The authors of this paper advocated for an increased accountability system for Thai schools through initiatives such as mandatory standardized tests, promoting school autonomy, and so on. 
+- [Pre-primary education and long-term education performance: Evidence from Programme for International Student Assessment (PISA) Thailand](https://journals.sagepub.com/doi/abs/10.1177/1476718X15616834?journalCode=ecra) by Piriya Pholphirul. Mr. Pholphirul analyzes PISA data and concludes that pre-primary education positively correlates with cognitive skills, especially among low-income students.
+- [School autonomy and accountability in Thailand: Does the gap between policy intent and implementation matter?](https://link.springer.com/article/10.1007/s11125-015-9368-8) by Patrinos et. al. The article asserts that schools with more autonomy tend to perform better in PISA reading tests. 
 
-Moreover, I discussed current education initiatives at TDRI with my colleagues and my research supervisor at the institution to identify how PISA 2018 data might inform those initiatives.
+Moreover, I discussed current education initiatives at TDRI with my colleagues and my research supervisor at the institution to identify how PISA 2018 data might inform those initiatives. Based on this research, I discovered that many papers focus on the effect of school accountability, school autonomy, and socioeconomic status on education achievement. Given that PISA 2018 tests include questions on students' attitude and experience on education, both of which are not extensively studied in papers I came across, I decided to analyze the relationship between atttitude and education performance. 
 
-4.) 
+4.) **Cleaning data**: Once I decided upon which project to undertake, I looked through the questionnaire every participant of PISA 2018 must answer and selected questions pertaining to attitude. Afterwards, I checked the responses each student provided and eliminated rows corresponding to students who provided too many 'No Responses' and coluumns corresponding to questions that are not properly answered (e.g. questions that were likely to be misinterpreted or had too many 'No Responses'). 
 
-5.) 
+5.) **Imputed missing data and convert the ordinal data to a numerical scale**: Some students only had one 'No Response' out of the many answers they provided. Therefore, I did not remove those students but imputed the 'No Response' cells based on the most frequent answer that appeared on that column. Afterwards, because the answers to those questions are mostly in the ordinal scale (e.g. never >> always, strongly disagree >> strongly agree), I converted the responses to an 1-4 scale. 
+
+6.) **Run the regression model with all variables**: This step provides a rough picture of which factors potentially correlate strongly with education achievement. 
+
+7.) **Fine-tune the regression model by choosing variables with high coefficients and R-squared values** I would group variables in Step 6 into different categories (e.g. fear of failure, growth mindset), ran regression with variables in each category, and only chose variables with high R-squared, low interaction, and high coefficients. 
+
+8.) **Summarize the results**: The result of this model is as shown below: 
 
 # Results
+I did 
 
 
 # Future Goals 
