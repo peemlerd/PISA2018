@@ -43,10 +43,12 @@ Moreover, I discussed current education initiatives at TDRI with my colleagues a
 <br /> In this project, I created two regression models: <br />  <br />
 **Project 1**: Regressing on education performance (Y) using responses to attitude questions as predictor variables (X). 
 <br />
+
 **Project 2**: Regressing on education performance (Y) using responses to summary statistics predictor variables (X). 
-<br />. The summary statistics are Warm-Likelihood Estimates (WLE) calculated by PISA based on each student's response to every question on the survey. 
+The summary statistics are Warm-Likelihood Estimates (WLE) calculated by PISA based on each student's response to every question on the survey. 
 **Note**: The model calculates and regresses on education performance for three separate subjects — mathematics, science, and reading. 
 
+<br />
 
 For **Project 1**, I found out that the *positive* factors that strongly correlate with education achievements are presence of extrinsic motivations, fear of failure, and the sense of pride when students master or successfully complete a task. On the other hand, *negative* factors include fixed mindset, isolation from peers, and enjoyment from competition. These attitude factors explain 25% of the variance in mathematics score of Thai students in the PISA 2018 dataset. <br />
 
