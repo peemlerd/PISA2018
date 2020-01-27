@@ -40,7 +40,7 @@ Moreover, I discussed current education initiatives at TDRI with my colleagues a
 8.) **Interpret the final regression model and summarize its results**: The section below describes the result of this project.
 
 # Results
-<br /> In this project, I created two regression models: <br /> 
+<br /> In this project, I created two regression models: <br />  <br />
 **Project 1**: Regressing on education performance (Y) using responses to attitude questions as predictor variables (X). 
 <br />
 **Project 2**: Regressing on education performance (Y) using responses to summary statistics predictor variables (X). 
