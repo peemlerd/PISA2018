@@ -48,7 +48,7 @@ Moreover, I discussed current education initiatives at TDRI with my colleagues a
 **Note**: The model calculates and regresses on education performance for three separate subjects — mathematics, science, and reading. 
 
 
-For **Project 1**, I found out that the *positive* factors that strongly correlate with education achievements are presence of extrinsic motivations, fear of failure, and the sense of pride when students master or successfully complete a task. On the other hand, *negative* factors include fixed mindset, isolation from peers, and enjoyment from competition. These attitude factors explain 25% of the variance in mathematics score of Thai students in the PISA 2018 dataset. 
+For **Project 1**, I found out that the *positive* factors that strongly correlate with education achievements are presence of extrinsic motivations, fear of failure, and the sense of pride when students master or successfully complete a task. On the other hand, *negative* factors include fixed mindset, isolation from peers, and enjoyment from competition. These attitude factors explain 25% of the variance in mathematics score of Thai students in the PISA 2018 dataset. <br />
 
 For **Project 2**, the PISA 2018 data corroborated many previous studies on what works in Thai schools. The result is: <br />
 
