@@ -37,14 +37,33 @@ Moreover, I discussed current education initiatives at TDRI with my colleagues a
 
 7.) **Fine-tune the regression model by choosing variables with high coefficients and R-squared values** I would group variables in Step 6 into different categories (e.g. fear of failure, growth mindset), ran regression with variables in each category, and only chose variables with high R-squared, low interaction, and high coefficients. 
 
-8.) **Summarize the results**: The result of this model is as shown below: 
+8.) **Interpret the final regression model and summarize its results**: The section below describes the result of this project.
 
 # Results
-I did 
+In this project, I created two regression models: 
+**Project 1**: Regressing on education performance (Y) using responses to attitude questions as predictor variables (X). 
+<br />
+**Project 2**: Regressing on education performance (Y) using responses to summary statistics predictor variables (X). 
+<br />. The summary statistics are Warm-Likelihood Estimates (WLE) calculated by PISA based on each student's response to every question on the survey. 
+**Note**: The model calculates and regresses on education performance for three separate subjects — mathematics, science, and reading. 
 
+
+For Project 1, I found out that the *positive* factors that strongly correlate with education achievements are presence of extrinsic motivations, fear of failure, and the sense of pride when students master or successfully complete a task. On the other hand, *negative* factors include fixed mindset, isolation from peers, and enjoyment from competition. These attitude factors explain 25% of the variance in mathematics score of Thai students in the PISA 2018 dataset. 
+
+For Project 2, the PISA 2018 data corroborated many previous studies on what works in Thai schools. The result is: <br />
+
+1.) Factors that *positively* correlate with education achievement: enjoyment in reading, deriving enjoyment from mastering a task, fear of failure, sense of belonging, socioeconomic status, presence of school activitoes.
+<br />
+
+2.) Factors that *negatively* correlate with education achievement: perceived difficulty in reading, discrimination, shortage of education staff, high student-to-teacher ratio, presence of behaviors that hinder learning, and attending private schools. 
+
+These WLE factors explain 51% of the variance in reading score of Thai students in the PISA 2018 dataset.
+
+These factors show similar trends when I applied regression on other subjects. 
 
 # Future Goals 
-
+1.) **Fixing the reversed causality problem.** Currently, it remains unclear whether positive and negative factors influence education achievement, vice versa, or there are other latent factors. For instance, a student might not perform well academically because he has a fixed mindset, or not performing well academically may cause him to adopt a fixed mindset.
+2.) **Create an index that reflects the mobility of a student.** If a student has high socioeconomic (escs) status, it is likely that her academic performance will be better than that of her less well-off peers. However, it is interesting to see which characteristics among the high-mobility students -- coming from the bottom quartile on escs but scoring at the top quartile in different subjects). Figuring out factors correlated with high mobility helps stakeholders in education design an intervention to improve the quality of education more effectively.  
 
 # About the author
 This project is done by Peem Lerdputtipongporn, Swarthmore College Class of 2021. As a Mathematics and Computer Science major, Peem is interested in using statistics and computation to make a positive impact to society. His area of interest includes education, economic development, and finance. For Summer 2020, he is looking for an internship/fellowship in Data Science for Social Good. 
