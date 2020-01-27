@@ -40,7 +40,7 @@ Moreover, I discussed current education initiatives at TDRI with my colleagues a
 8.) **Interpret the final regression model and summarize its results**: The section below describes the result of this project.
 
 # Results
-In this project, I created two regression models: <br /> 
+<br /> In this project, I created two regression models: <br /> 
 **Project 1**: Regressing on education performance (Y) using responses to attitude questions as predictor variables (X). 
 <br />
 **Project 2**: Regressing on education performance (Y) using responses to summary statistics predictor variables (X). 
@@ -62,7 +62,8 @@ These WLE factors explain 51% of the variance in reading score of Thai students 
 These factors show similar trends when I applied regression on other subjects. 
 
 # Future Goals 
-1.) **Fixing the reversed causality problem.** Currently, it remains unclear whether positive and negative factors influence education achievement, vice versa, or there are other latent factors. For instance, a student might not perform well academically because he has a fixed mindset, or not performing well academically may cause him to adopt a fixed mindset.
+
+1.) **Fixing the reversed causality problem.** Currently, it remains unclear whether positive and negative factors influence education achievement, vice versa, or there are other latent factors. For instance, a student might not perform well academically because he has a fixed mindset, or not performing well academically may cause him to adopt a fixed mindset.    <br />
 2.) **Create an index that reflects the mobility of a student.** If a student has high socioeconomic (escs) status, it is likely that her academic performance will be better than that of her less well-off peers. However, it is interesting to see which characteristics among the high-mobility students -- coming from the bottom quartile on escs but scoring at the top quartile in different subjects). Figuring out factors correlated with high mobility helps stakeholders in education design an intervention to improve the quality of education more effectively.  
 
 # About the author
