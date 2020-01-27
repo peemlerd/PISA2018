@@ -40,7 +40,7 @@ Moreover, I discussed current education initiatives at TDRI with my colleagues a
 8.) **Interpret the final regression model and summarize its results**: The section below describes the result of this project.
 
 # Results
-In this project, I created two regression models: 
+In this project, I created two regression models: <br /> 
 **Project 1**: Regressing on education performance (Y) using responses to attitude questions as predictor variables (X). 
 <br />
 **Project 2**: Regressing on education performance (Y) using responses to summary statistics predictor variables (X). 
@@ -48,9 +48,9 @@ In this project, I created two regression models:
 **Note**: The model calculates and regresses on education performance for three separate subjects — mathematics, science, and reading. 
 
 
-For Project 1, I found out that the *positive* factors that strongly correlate with education achievements are presence of extrinsic motivations, fear of failure, and the sense of pride when students master or successfully complete a task. On the other hand, *negative* factors include fixed mindset, isolation from peers, and enjoyment from competition. These attitude factors explain 25% of the variance in mathematics score of Thai students in the PISA 2018 dataset. 
+For **Project 1**, I found out that the *positive* factors that strongly correlate with education achievements are presence of extrinsic motivations, fear of failure, and the sense of pride when students master or successfully complete a task. On the other hand, *negative* factors include fixed mindset, isolation from peers, and enjoyment from competition. These attitude factors explain 25% of the variance in mathematics score of Thai students in the PISA 2018 dataset. 
 
-For Project 2, the PISA 2018 data corroborated many previous studies on what works in Thai schools. The result is: <br />
+For **Project 2**, the PISA 2018 data corroborated many previous studies on what works in Thai schools. The result is: <br />
 
 1.) Factors that *positively* correlate with education achievement: enjoyment in reading, deriving enjoyment from mastering a task, fear of failure, sense of belonging, socioeconomic status, presence of school activitoes.
 <br />
